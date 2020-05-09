@@ -1,16 +1,14 @@
-# speedcode
+# Property Rental UI
 
-A new Flutter application.
+A beautiful UI for a property rental app, built using Flutter. The app UI is built in 2 pages - one for listing the available properties and the other for displaying more details about the selected property. The Flutter app is for the representation only and does not process any external data. No external pub dependencies used.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot](./screenshot.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design inspiration - [https://www.instagram.com/p/B_kARogg3rs/](https://www.instagram.com/p/B_kARogg3rs/)
+Image assets - [https://unsplash.com/s/photos/office](https://unsplash.com/s/photos/office)
+
+Flutter - [https://flutter.dev](https://flutter.dev)
